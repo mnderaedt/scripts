@@ -1,0 +1,7 @@
+git
+make
+cmake
+rxvt-unicode 
+vim
+
+
