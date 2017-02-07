@@ -28,7 +28,7 @@ make install
 
 [ -d $HOME/.config/bspwm ] || mkdir -p $HOME/.config/bspwm
 
-cp examples/bspwmrc $GOME/.config/bspwm
+cp examples/bspwmrc $HOME/.config/bspwm
 chmod +x $HOME/.config/bspwm/bspwmrc
 
 cd ../sxhkd
